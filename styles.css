@@ -1,0 +1,45 @@
+body{
+
+    margin:0;
+    padding: 0;
+    text-align: center;
+
+}
+.firstslide{
+  height: 100%;
+  width:100%;
+  position: absolute;
+  background-image: url("background.png");
+  background-size: cover;
+  background-size: 100% 100%;
+  background-repeat:no-repeat;
+
+}
+h1{
+  padding: 1px;
+  color: black;
+  text-align: center;
+  margin-top: 150px;
+  font-family: 'Lobster', cursive;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
+font-size:80px;
+font-weight: lighter;
+}
+
+button {
+      border-color: inherit;
+      border-radius: 18px;
+      font-family: sans-serif;
+      font-weight:lighter;
+      font-size: 20px;
+      height: 36px;
+      width:150px;
+      background-color: #F0B107 ;
+  text-shadow: 1px 1px #000000 ;
+
+
+}
+a{
+  text-decoration: none;
+}
